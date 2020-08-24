@@ -1,4 +1,4 @@
-#Author: Himanshu Sharma
+
 #Creating dictionary of accounts
 A1 = {
   "name" : "Amar",
